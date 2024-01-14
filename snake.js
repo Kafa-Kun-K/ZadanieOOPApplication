@@ -45,7 +45,6 @@ const BoardConsts = {
       return;
     }
   
-    context.fillStyle = "black";
     context.drawImage(bgimage, 0, 0, board.width, board.height);
     
     context.fillStyle = "brown";
