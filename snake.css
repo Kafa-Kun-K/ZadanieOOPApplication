@@ -1,0 +1,9 @@
+body {
+    background-color: gray;
+    font-family: 'Courier New';
+    text-align: center;
+}
+#board {
+    border: solid purple;
+    border-radius: 5px;
+}
