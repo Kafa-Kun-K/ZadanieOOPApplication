@@ -4,6 +4,6 @@ body {
     text-align: center;
 }
 #board {
-    border: solid purple;
-    border-radius: 5px;
+    border: 2.5px solid red;
+    border-radius: 10px;
 }
